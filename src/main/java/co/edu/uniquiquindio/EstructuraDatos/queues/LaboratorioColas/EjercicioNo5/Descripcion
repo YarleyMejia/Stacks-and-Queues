@@ -1,0 +1,6 @@
+En un establo se guarda un rebaño de ovejas. Se desea ordenar
+las ovejas según su peso,usando dos establos adicionales. Los establos
+son tan angostos que las ovejas deben estar formadas en fila. Cada establo
+tiene una abertura que es la entrada y salida al mismo tiempo.
+
+Implemente un programa en Java que simule este proceso.
