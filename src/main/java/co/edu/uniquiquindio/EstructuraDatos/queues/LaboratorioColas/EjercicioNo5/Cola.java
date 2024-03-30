@@ -6,7 +6,7 @@ import java.util.*;
 public class Cola<T> implements Iterable {
     private Nodo<T> nodoPrimero;
     private Nodo<T> nodoUltimo;
-    private int tamanio; 
+    private int tamanio;
 
 
 
@@ -47,12 +47,12 @@ public class Cola<T> implements Iterable {
         tamanio++;
     }
 
-    public void ordenarAscendente(List<T> lista, Cola cola1, Cola cola2) {
-        for (int i = 0; i < lista.size() % 2; i++) {
-            cola1.encolarAlInicio(lista.get(i));
-        }
-        for (int i = 0; i > lista.size() % 2 && i <= tamanio; i++) {
+    public void ordenarEstablo(List<T> lista, Cola cola1, Cola cola2) {
+        for (int i = 0; i < lista.size() / 2; i++) {
             cola2.encolarAlInicio(lista.get(i));
+        }
+        for (int i = lista.size() / 2; i < lista.size(); i++) {
+            cola1.encolarAlInicio(lista.get(i));
         }
     }
 
