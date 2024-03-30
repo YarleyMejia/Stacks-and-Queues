@@ -20,6 +20,10 @@ public class Establo {
         listaOvejas.add(oveja);
     }
 
-    public void organiza
-
+    @Override
+    public String toString() {
+        return "Establo{" +
+                "listaOvejas=" + listaOvejas +
+                '}';
+    }
 }

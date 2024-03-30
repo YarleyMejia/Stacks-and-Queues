@@ -7,11 +7,18 @@ public class Oveja {
         this.peso = peso;
     }
 
-    public int getPeso() {
+    public  int getPeso() {
         return peso;
     }
 
     public void setPeso(int peso) {
         this.peso = peso;
+    }
+
+    @Override
+    public String toString() {
+        return "Oveja " +
+                "peso=" + peso
+                ;
     }
 }

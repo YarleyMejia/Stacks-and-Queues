@@ -1,4 +1,4 @@
-package co.edu.uniquiquindio.EstructuraDatos.queues.LaboratorioColas.EjercicioNo5;
+package co.edu.uniquiquindio.EstructuraDatos.queues.LaboratorioColas.EjercicioNo3;
 
 public class Nodo<T> {
 

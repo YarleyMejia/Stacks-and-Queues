@@ -4,11 +4,40 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4d2710ff-b4a3-4dfc-ba49-efd841977a7d" name="Changes" comment="" />
+    <list default="true" id="4d2710ff-b4a3-4dfc-ba49-efd841977a7d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/co/edu/uniquiquindio/EstructuraDatos/queues/LaboratorioColas/EjercicioNo1_No2/Cola.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/co/edu/uniquiquindio/EstructuraDatos/queues/LaboratorioColas/EjercicioNo1_No2/Descripcion" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/co/edu/uniquiquindio/EstructuraDatos/queues/LaboratorioColas/EjercicioNo1_No2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/co/edu/uniquiquindio/EstructuraDatos/queues/LaboratorioColas/EjercicioNo1_No2/Nodo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/co/edu/uniquiquindio/EstructuraDatos/queues/LaboratorioColas/EjercicioNo3/Cola.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/co/edu/uniquiquindio/EstructuraDatos/queues/LaboratorioColas/EjercicioNo3/Descripcion" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/co/edu/uniquiquindio/EstructuraDatos/queues/LaboratorioColas/EjercicioNo3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/co/edu/uniquiquindio/EstructuraDatos/queues/LaboratorioColas/EjercicioNo3/Nodo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/co/edu/uniquiquindio/EstructuraDatos/queues/LaboratorioColas/EjercicioNo4/Cola.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/co/edu/uniquiquindio/EstructuraDatos/queues/LaboratorioColas/EjercicioNo4/Descripcion" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/co/edu/uniquiquindio/EstructuraDatos/queues/LaboratorioColas/EjercicioNo4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/co/edu/uniquiquindio/EstructuraDatos/queues/LaboratorioColas/EjercicioNo4/Nodo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/edu/uniquiquindio/EstructuraDatos/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/edu/uniquiquindio/EstructuraDatos/queues/LaboratorioColas/EjercicioNo5/Cola.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/edu/uniquiquindio/EstructuraDatos/queues/LaboratorioColas/EjercicioNo5/Cola.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/edu/uniquiquindio/EstructuraDatos/queues/LaboratorioColas/EjercicioNo5/Establo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/edu/uniquiquindio/EstructuraDatos/queues/LaboratorioColas/EjercicioNo5/Establo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/edu/uniquiquindio/EstructuraDatos/queues/LaboratorioColas/EjercicioNo5/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/edu/uniquiquindio/EstructuraDatos/queues/LaboratorioColas/EjercicioNo5/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/edu/uniquiquindio/EstructuraDatos/queues/LaboratorioColas/EjercicioNo5/Nodo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/edu/uniquiquindio/EstructuraDatos/queues/LaboratorioColas/EjercicioNo5/Nodo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/edu/uniquiquindio/EstructuraDatos/queues/LaboratorioColas/EjercicioNo5/Oveja.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/edu/uniquiquindio/EstructuraDatos/queues/LaboratorioColas/EjercicioNo5/Oveja.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/co/edu/uniquiquindio/EstructuraDatos/AppTest.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -17,22 +46,112 @@
   "associatedIndex": 2
 }]]></component>
   <component name="ProjectId" id="2eNkBz0PLJqmMHtz2b7SxbuJUr0" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Main.executor": "Run",
+    "Application.co.edu.uniquiquindio.EstructuraDatos.queues.LaboratorioColas.EjercicioNo3.Main.executor": "Run",
+    "Application.co.edu.uniquiquindio.EstructuraDatos.queues.LaboratorioColas.EjercicioNo4.Main.executor": "Run",
+    "Application.co.edu.uniquiquindio.EstructuraDatos.queues.LaboratorioColas.EjercicioNo5.Main.executor": "Run",
     "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/lenovo/Desktop/Estructura de datos/Stacks and Queues/src/main/java/co/edu/uniquiquindio/EstructuraDatos/queues/LaboratorioColas/EjercicioNo4",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\lenovo\Desktop\Estructura de datos\Stacks and Queues\src\main\java\co\edu\uniquiquindio\EstructuraDatos\queues\LaboratorioColas\EjercicioNo4" />
+      <recent name="C:\Users\lenovo\Desktop\Estructura de datos\Stacks and Queues\src\main\java\co\edu\uniquiquindio\EstructuraDatos" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\lenovo\Desktop\Estructura de datos\Stacks and Queues\src\main\java\co\edu\uniquiquindio\EstructuraDatos\queues\LaboratorioColas\EjercicioNo" />
+    </key>
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="co.edu.uniquiquindio.EstructuraDatos.queues.LaboratorioColas.EjercicioNo5" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="co.edu.uniquiquindio.EstructuraDatos.queues.LaboratorioColas.EjercicioNo" />
+      <recent name="co.edu.uniquiquindio.EstructuraDatos.queues.LaboratorioColas.EjercicioNo4" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.co.edu.uniquiquindio.EstructuraDatos.queues.LaboratorioColas.EjercicioNo5.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="co.edu.uniquiquindio.EstructuraDatos.queues.LaboratorioColas.EjercicioNo1_No2.Main" />
+      <module name="ycmejia" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="co.edu.uniquiquindio.EstructuraDatos.queues.LaboratorioColas.EjercicioNo1_No2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="co.edu.uniquiquindio.EstructuraDatos.queues.LaboratorioColas.EjercicioNo3.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="co.edu.uniquiquindio.EstructuraDatos.queues.LaboratorioColas.EjercicioNo3.Main" />
+      <module name="ycmejia" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="co.edu.uniquiquindio.EstructuraDatos.queues.LaboratorioColas.EjercicioNo3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="co.edu.uniquiquindio.EstructuraDatos.queues.LaboratorioColas.EjercicioNo4.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="co.edu.uniquiquindio.EstructuraDatos.queues.LaboratorioColas.EjercicioNo4.Main" />
+      <module name="ycmejia" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="co.edu.uniquiquindio.EstructuraDatos.queues.LaboratorioColas.EjercicioNo4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="co.edu.uniquiquindio.EstructuraDatos.queues.LaboratorioColas.EjercicioNo5.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="co.edu.uniquiquindio.EstructuraDatos.queues.LaboratorioColas.EjercicioNo5.Main" />
+      <module name="ycmejia" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="co.edu.uniquiquindio.EstructuraDatos.queues.LaboratorioColas.EjercicioNo5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.co.edu.uniquiquindio.EstructuraDatos.queues.LaboratorioColas.EjercicioNo5.Main" />
+        <item itemvalue="Application.co.edu.uniquiquindio.EstructuraDatos.queues.LaboratorioColas.EjercicioNo4.Main" />
+        <item itemvalue="Application.co.edu.uniquiquindio.EstructuraDatos.queues.LaboratorioColas.EjercicioNo3.Main" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -48,11 +167,26 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1711752294327</updated>
-      <workItem from="1711752295497" duration="7000" />
+      <workItem from="1711752295497" duration="15256000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/co/edu/uniquiquindio/EstructuraDatos/queues/LaboratorioColas/EjercicioNo1_No2/Main.java</url>
+          <line>7</line>
+          <properties class="co.edu.uniquiquindio.EstructuraDatos.queues.LaboratorioColas.EjercicioNo1_No2.Main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

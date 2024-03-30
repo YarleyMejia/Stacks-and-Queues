@@ -1,12 +1,14 @@
-package co.edu.uniquiquindio.EstructuraDatos.queues.LaboratorioColas.EjercicioNo5;
+package co.edu.uniquiquindio.EstructuraDatos.queues.LaboratorioColas.EjercicioNo3;
 
 
-import java.util.*;
+import java.util.ArrayList;
+import java.util.Iterator;
+import java.util.List;
 
 public class Cola<T> implements Iterable {
     private Nodo<T> nodoPrimero;
     private Nodo<T> nodoUltimo;
-    private int tamanio; 
+    private int tamanio;
 
 
 
@@ -32,28 +34,6 @@ public class Cola<T> implements Iterable {
             nodoUltimo = nuevoNodo;
         }
         tamanio++;
-    }
-
-    //Encolar al inicio
-    public void encolarAlInicio(T valor) {
-        Nodo<T> nuevoNodo = new Nodo<>(valor);
-        if (estaVacia()) {
-            nodoPrimero = nuevoNodo;
-            nodoUltimo = nuevoNodo;
-        } else {
-            nuevoNodo.setSiguienteNodo(nodoPrimero);
-            nodoPrimero = nuevoNodo;
-        }
-        tamanio++;
-    }
-
-    public void ordenarAscendente(List<T> lista, Cola cola1, Cola cola2) {
-        for (int i = 0; i < lista.size() % 2; i++) {
-            cola1.encolarAlInicio(lista.get(i));
-        }
-        for (int i = 0; i > lista.size() % 2 && i <= tamanio; i++) {
-            cola2.encolarAlInicio(lista.get(i));
-        }
     }
 
     // Método para desencolar
@@ -101,35 +81,6 @@ public class Cola<T> implements Iterable {
         }
 
     }
-
-    //Inmsertar un valor en un posicion sin cambiar el demas orden
-    // https://github.com/vivianamarquez-2013?tab=overview&from=2019-12-01&to=2019-12-31
-
-    public void insertarEnPosicion(T valor, int posicion) {
-        if (posicion < 0 || posicion > tamanio) {
-            throw new IllegalArgumentException("La posición especificada está fuera de rango");
-        }
-        if (posicion == tamanio) {
-            encolar(valor);
-            return;
-        }
-        Nodo<T> anterior = null;
-        Nodo<T> actual = nodoPrimero;
-        for (int i = 0; i < posicion; i++) {
-            anterior = actual;
-            actual = actual.getSiguienteNodo();
-        }
-        Nodo<T> nuevoNodo = new Nodo<>(valor);
-        nuevoNodo.setSiguienteNodo(actual);
-        if (anterior == null) {
-            nodoPrimero = nuevoNodo;
-        } else {
-            anterior.setSiguienteNodo(nuevoNodo);
-        }
-        tamanio++;
-    }
-
-
         @Override
     public Iterator iterator() {
         return new IteradorCola(nodoPrimero);
