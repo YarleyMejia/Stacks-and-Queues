@@ -5,9 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4d2710ff-b4a3-4dfc-ba49-efd841977a7d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/edu/uniquiquindio/EstructuraDatos/Stacks/ClaseTaller02042024/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/edu/uniquiquindio/EstructuraDatos/Stacks/ClaseTaller02042024/Nodo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/edu/uniquiquindio/EstructuraDatos/Stacks/ClaseTaller02042024/Pila.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/co/edu/uniquiquindio/EstructuraDatos/Stacks/Pilas/Libro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/co/edu/uniquiquindio/EstructuraDatos/Stacks/Pilas/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/co/edu/uniquiquindio/EstructuraDatos/Stacks/Pilas/Nodo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/co/edu/uniquiquindio/EstructuraDatos/Stacks/Pilas/Pila.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/co/edu/uniquiquindio/EstructuraDatos/Taller_Diapositivas/Ejercicio1/Cadena.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/co/edu/uniquiquindio/EstructuraDatos/Taller_Diapositivas/Ejercicio1/Descripcion" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/co/edu/uniquiquindio/EstructuraDatos/Taller_Diapositivas/Ejercicio1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/co/edu/uniquiquindio/EstructuraDatos/Taller_Diapositivas/Ejercicio1/Nodo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/co/edu/uniquiquindio/EstructuraDatos/Taller_Diapositivas/Ejercicio1/Pila.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/co/edu/uniquiquindio/EstructuraDatos/Taller_Diapositivas/Ejercicio2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/co/edu/uniquiquindio/EstructuraDatos/Taller_Diapositivas/Ejercicio3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/co/edu/uniquiquindio/EstructuraDatos/queues/Colas/Bicola.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/co/edu/uniquiquindio/EstructuraDatos/queues/Colas/Cola.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/co/edu/uniquiquindio/EstructuraDatos/queues/Colas/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/co/edu/uniquiquindio/EstructuraDatos/queues/Colas/Nodo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,6 +52,8 @@
   &quot;keyToString&quot;: {
     &quot;Application.Main.executor&quot;: &quot;Run&quot;,
     &quot;Application.co.edu.uniquiquindio.EstructuraDatos.Stacks.ClaseTaller02042024.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.co.edu.uniquiquindio.EstructuraDatos.Taller_Diapositivas.Ejercicio1.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.co.edu.uniquiquindio.EstructuraDatos.queues.Colas.Main.executor&quot;: &quot;Run&quot;,
     &quot;Application.co.edu.uniquiquindio.EstructuraDatos.queues.LaboratorioColas.EjercicioNo3.Main.executor&quot;: &quot;Run&quot;,
     &quot;Application.co.edu.uniquiquindio.EstructuraDatos.queues.LaboratorioColas.EjercicioNo4.Main.executor&quot;: &quot;Run&quot;,
     &quot;Application.co.edu.uniquiquindio.EstructuraDatos.queues.LaboratorioColas.EjercicioNo5.Main.executor&quot;: &quot;Run&quot;,
@@ -49,7 +63,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/lenovo/Desktop/Estructura de datos/Stacks and Queues/src/main/java/co/edu/uniquiquindio/EstructuraDatos/queues/LaboratorioColas/EjercicioNo4&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/lenovo/Desktop/Estructura de datos/Stacks and Queues/src/main/java/co/edu/uniquiquindio/EstructuraDatos/queues&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -60,6 +74,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\lenovo\Desktop\Estructura de datos\Stacks and Queues\src\main\java\co\edu\uniquiquindio\EstructuraDatos\queues" />
       <recent name="C:\Users\lenovo\Desktop\Estructura de datos\Stacks and Queues\src\main\java\co\edu\uniquiquindio\EstructuraDatos\queues\LaboratorioColas\EjercicioNo4" />
       <recent name="C:\Users\lenovo\Desktop\Estructura de datos\Stacks and Queues\src\main\java\co\edu\uniquiquindio\EstructuraDatos" />
     </key>
@@ -74,13 +89,13 @@
       <recent name="co.edu.uniquiquindio.EstructuraDatos.queues.LaboratorioColas.EjercicioNo4" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.co.edu.uniquiquindio.EstructuraDatos.Stacks.ClaseTaller02042024.Main">
+  <component name="RunManager" selected="Application.co.edu.uniquiquindio.EstructuraDatos.Taller_Diapositivas.Ejercicio1.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="co.edu.uniquiquindio.EstructuraDatos.queues.LaboratorioColas.EjercicioNo1_No2.Main" />
+      <option name="MAIN_CLASS_NAME" value="co.edu.uniquiquindio.EstructuraDatos.Stacks.Pilas.Main" />
       <module name="ycmejia" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="co.edu.uniquiquindio.EstructuraDatos.queues.LaboratorioColas.EjercicioNo1_No2.*" />
+          <option name="PATTERN" value="co.edu.uniquiquindio.EstructuraDatos.Stacks.Pilas.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,12 +116,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="co.edu.uniquiquindio.EstructuraDatos.queues.LaboratorioColas.EjercicioNo3.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="co.edu.uniquiquindio.EstructuraDatos.queues.LaboratorioColas.EjercicioNo3.Main" />
+    <configuration name="co.edu.uniquiquindio.EstructuraDatos.Taller_Diapositivas.Ejercicio1.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="co.edu.uniquiquindio.EstructuraDatos.Taller_Diapositivas.Ejercicio1.Main" />
       <module name="ycmejia" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="co.edu.uniquiquindio.EstructuraDatos.queues.LaboratorioColas.EjercicioNo3.*" />
+          <option name="PATTERN" value="co.edu.uniquiquindio.EstructuraDatos.Taller_Diapositivas.Ejercicio1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,12 +129,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="co.edu.uniquiquindio.EstructuraDatos.queues.LaboratorioColas.EjercicioNo4.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="co.edu.uniquiquindio.EstructuraDatos.queues.LaboratorioColas.EjercicioNo4.Main" />
+    <configuration name="co.edu.uniquiquindio.EstructuraDatos.queues.Colas.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="co.edu.uniquiquindio.EstructuraDatos.queues.Colas.Main" />
       <module name="ycmejia" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="co.edu.uniquiquindio.EstructuraDatos.queues.LaboratorioColas.EjercicioNo4.*" />
+          <option name="PATTERN" value="co.edu.uniquiquindio.EstructuraDatos.queues.Colas.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -142,11 +157,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.co.edu.uniquiquindio.EstructuraDatos.Taller_Diapositivas.Ejercicio1.Main" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.co.edu.uniquiquindio.EstructuraDatos.queues.Colas.Main" />
         <item itemvalue="Application.co.edu.uniquiquindio.EstructuraDatos.Stacks.ClaseTaller02042024.Main" />
         <item itemvalue="Application.co.edu.uniquiquindio.EstructuraDatos.queues.LaboratorioColas.EjercicioNo5.Main" />
-        <item itemvalue="Application.co.edu.uniquiquindio.EstructuraDatos.queues.LaboratorioColas.EjercicioNo4.Main" />
-        <item itemvalue="Application.co.edu.uniquiquindio.EstructuraDatos.queues.LaboratorioColas.EjercicioNo3.Main" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -173,6 +188,9 @@
       <workItem from="1712699427691" duration="13000" />
       <workItem from="1712884032377" duration="1251000" />
       <workItem from="1713052645475" duration="20000" />
+      <workItem from="1713989603581" duration="1181000" />
+      <workItem from="1713991190199" duration="14454000" />
+      <workItem from="1714079496031" duration="12000" />
     </task>
     <servers />
   </component>
